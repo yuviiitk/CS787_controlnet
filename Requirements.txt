@@ -1,0 +1,11 @@
+torch
+torchvision
+diffusers
+transformers
+accelerate
+bitsandbytes
+xformers
+Pillow
+tqdm
+ipython
+numpy
