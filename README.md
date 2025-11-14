@@ -45,4 +45,4 @@ Here is the readymade Kaggle version which you can run on the go.
 <code>https://www.kaggle.com/code/yuvrajkharte/fork-of-stablediffusion-e03d23</code>
 The dataset name on Kaggle is: "canny-tuples"
 The model name on Kaggle is: "stableDiffusion5669"
-Just search and import the dataset and the models. It is already made public for quick access.
+Just search and import the dataset and the models. It is already made public for quick access. 
