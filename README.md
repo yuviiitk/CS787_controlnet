@@ -39,7 +39,7 @@ Keep the frozen stable diffusion weights in there too like this:
 <img width="422" height="422" alt="image" src="https://github.com/user-attachments/assets/c7180381-afad-4f00-9625-6aa8d7635896" />
 
 Now simply run the training script to train a ControlNet model which will be saved in the same directory. 
-To get image inferences from this model, run the inference script after specifying the paths of the stable diffusion and trained contronet models as they have to be used together.
+To get image inferences from this model, run the inference script after specifying the paths of the stable diffusion and trained contronet models as they have to be used together. 
 
 Here is the readymade Kaggle version which you can run on the go. 
 <code>https://www.kaggle.com/code/yuvrajkharte/fork-of-stablediffusion-e03d23</code>
